@@ -1,4 +1,5 @@
 # Samples for IBM Dependency Based Build
+# Samples for IBM Dependency Based Build testing for jenkins triggered build
 **\*! This repository is deprecated and no longer maintained. Please visit the [DBB Community Repository](https://github.com/IBM/dbb) for finding and sharing example DBB scripts!\***
 
 ### Hello World First Script  
